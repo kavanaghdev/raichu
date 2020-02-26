@@ -1,0 +1,7 @@
+*.pyc
+venv
+.ipynb_checkpoints
+*.ipynb
+*.pdf
+*.csv
+.idea
