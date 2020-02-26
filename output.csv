@@ -1,0 +1,37 @@
+,job_number,description,super,mix_description,shift,2020-02-22,2020-02-23,2020-02-24,2020-02-25,2020-02-26,2020-02-27,2020-02-28,2020-02-29,2020-03-01,2020-03-02,2020-03-03,2020-03-04,2020-03-05,2020-03-06,2020-03-07,2020-03-08,name
+2,7152,Highland Trace,Mark,Level 1,Day,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,Wayne
+3,3117,Dijon,Marc,evel 2 Binder/Level 1 W,Day,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False,Wayne
+4,3119,LA 936 Binder,Mark,Level 1,Day,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,Wayne
+5,5136,False River Airport,Marc,,Day,False,False,False,False,False,False,True,False,False,True,True,True,False,False,False,False,Wayne
+6,7150,Dupree Trucking Parking Lot,Mark,Level 1,Day,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,Wayne
+8,3109,Government St Asphalt Base,Kenny,Level 1 Base,Day,False,False,False,False,True,True,True,False,False,True,True,False,False,False,False,False,Loyd
+9,5135,Zachary Milling,Marc,,Day,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,Loyd
+11,5136,False River Airport Grading,Marc,,Day,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,Joe
+12,3106,LA 42,Mark,,Day,False,False,True,True,True,True,True,False,False,True,True,True,True,True,False,False,Joe
+14,3100,US-61X CB-01/Sidewalk,Kenny,,Day,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,Mason Ducote
+15,3106,LA 42,Barry,,Day,False,False,False,False,False,False,False,False,False,True,True,True,True,True,False,False,Mason Ducote
+16,51-90,Plant 1 Firewall/Inc Paving,Andy,,Day,False,False,True,True,True,True,True,False,False,False,False,False,False,False,False,False,Mason Ducote
+18,5137,Windsor EBR Curb & Gutter,Kenny,,Day,False,False,False,True,True,True,True,False,False,True,True,True,True,True,False,False,David
+19,3106,LA 42 Curb & Gutter/Inc Paving,Barry,,Day,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,David
+21,3106,LA 42,Barry,,Day,False,False,True,True,True,False,False,False,False,True,True,True,True,True,False,False,Leon M
+22,7150,Dupree Trucking Parking Lot,Mark,,Day,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,Leon M
+24,3109,Government St Excavation/Subgrade/Patching,Kenny,,Day,False,False,False,False,True,True,True,False,False,True,True,True,True,True,False,False,Bobby Cain
+25,3106,LA 42,Barry,,Day,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,Bobby Cain
+27,3100,US-61X Drainage,Kenny,,Day,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,Earl
+28,3106,LA 42,Barry,,Day,False,False,True,True,True,True,True,False,False,True,True,True,False,False,False,False,Earl
+30,3109,Government St,Kenny,,Day,False,False,False,False,True,True,True,True,False,True,True,True,True,True,False,False,Carlos
+31,3106,LA 42 Curb & Gutter,Barry,,Day,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,Carlos
+33,3109,Government St,Kenny,,Day,False,False,False,False,True,True,True,True,False,True,True,True,True,True,False,False,Luis
+34,3106,LA 42 Curb & Gutter,Barry,,Day,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,Luis
+36,3109,Government St Subgrade,Kenny,,Day,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,Robbie
+37,6065,Lakefront Airport Backfill,Tate,,Day,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,Robbie
+38,3106,LA 42,Barry,,Day,False,False,True,True,True,True,False,False,False,True,False,True,True,True,False,False,Robbie
+40,5135,Zachary Milling,Marc,,Day,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,Elliott
+41,5137,EBR Windsor Patching,Mark,,Day,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,Elliott
+42,6081,Canal/7th,Tate,,Day,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False,False,Elliott
+44,6081,Canal/7th,Tate,,Day,False,False,False,False,True,True,False,False,False,False,False,True,True,True,False,False,Gary
+45,,Avondale Paving Job TBD,Tate,,Day,True,False,True,True,False,False,True,False,False,True,True,False,False,False,False,False,Gary
+47,6071,NASA Curb & Gutter,Tate,,Day,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,Ryan
+48,3106,LA 42 Curb & Gutter,Barry,,Day,False,False,True,True,True,True,True,False,False,True,True,True,False,False,False,False,Ryan
+50,,Avondale,Tate,,Day,False,False,True,True,True,True,True,False,False,True,True,True,True,True,False,False,hello
+51,,,,,Day,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,hello
